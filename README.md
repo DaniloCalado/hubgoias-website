@@ -1,6 +1,6 @@
 # Hub Goiás - Site Institucional
 
-Este repositório contém o código fonte do site institucional do Hub de Tecnologia em Goiás, Brasil. O hub é um centro de inovação e colaboração tecnológica na capital de Goiás, reunindo profissionais e empresas do setor de tecnologia.
+Este repositório contém o código fonte do site institucional do Hub de Tecnologia no estado de Goiás, Brasil. O hub é um centro de inovação e colaboração tecnológica reunindo profissionais e empresas do setor de tecnologia.
 
 ## Tecnologias Utilizadas
 - WordPress para gerenciamento de conteúdo.
